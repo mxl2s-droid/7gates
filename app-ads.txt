@@ -1,0 +1,5 @@
+# app-ads.txt placeholder for 7 Gates App.
+# Add authorized mobile app advertising sellers here before production monetization.
+#
+# Example format:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

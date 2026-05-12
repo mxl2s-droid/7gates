@@ -1,0 +1,5 @@
+# ads.txt placeholder for 7 Gates App.
+# Add authorized web advertising sellers here before production monetization.
+#
+# Example format:
+# example.com, publisher-id, DIRECT, certification-authority-id
