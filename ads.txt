@@ -3,3 +3,4 @@
 #
 # Example format:
 # example.com, publisher-id, DIRECT, certification-authority-id
+google.com, pub-5012439149472848, DIRECT, f08c47fec0942fa0
