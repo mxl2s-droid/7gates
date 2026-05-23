@@ -1,6 +1,6 @@
 # 7 Gates App developer site
 
-Static developer homepage for **7 Gates App**, a mobile entertainment developer whose current first product is the short drama app **Vibra Drama**.
+Static developer homepage for **7 Gates App**, a mobile app developer focused on clear, polished entertainment experiences.
 
 ## Files
 
@@ -10,7 +10,9 @@ Static developer homepage for **7 Gates App**, a mobile entertainment developer 
 - `assets/vibra-drama-icon.png`: Vibra Drama product icon
 - `ads.txt`: reserved web advertising declaration file
 - `app-ads.txt`: reserved mobile app advertising declaration file
-- `privacy.html`: responsive privacy policy for 7 Gates App and Vibra Drama
+- `privacy.html`: responsive privacy policy for Vibra Drama, published as `/privacy`
+- `privacyofvibradrama/index.html`: older alternate Vibra Drama privacy path, no longer linked from the homepage
+- `privacyofpacplayer/index.html`: responsive privacy policy for Pac Player
 
 ## Deployment notes
 
